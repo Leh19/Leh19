@@ -1,4 +1,4 @@
 ## Olá Programadores 👋
 
-Olá, meu nome é Leticia e sou programadora aprendiz, sou nova na plataforma e me considero **Junior**
+Olá, meu nome é Leticia e sou programadora aprendiz, sou nova na plataforma.
 
